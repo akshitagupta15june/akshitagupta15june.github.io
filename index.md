@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Virtual Paint Using OPenCV](https://github.com/akshitagupta15june/Virtual_Paint-using-OpenCV.git)
+<img src="images/virt.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Motion Detection Using OPenCV](/pdf/sample_presentation.pdf)
+<img src="images/motion.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Face Detection Using OpenCV](http://example.com/)
+<img src="images/face.jpeg?raw=true"/>
 
 ---
 
