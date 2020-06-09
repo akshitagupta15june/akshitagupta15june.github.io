@@ -1,6 +1,6 @@
 My OpenCV Projects
 
-[Virtual Paint Using OPenCV]
+Virtual Paint Using OPenCV
 
 <img src="images/virt.jpeg?raw=true"/>
 
@@ -8,7 +8,7 @@ My OpenCV Projects
 
 
 ---
-[Motion Detection Using OPenCV]
+Motion Detection Using OPenCV
 
 <img src="images/motion.jpeg?raw=true"/>
 
@@ -16,7 +16,7 @@ My OpenCV Projects
 
 
 ---
-[Live Face Detection Using OpenCV]
+Live Face Detection Using OpenCV
 
 <img src="images/face.jpeg?raw=true"/>
 
