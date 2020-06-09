@@ -4,32 +4,27 @@
 
 ### Category Name 1 
 
-[Virtual Paint Using OPenCV](https://github.com/akshitagupta15june/Virtual_Paint-using-OpenCV.git)
+[Virtual Paint Using OPenCV]
+
 <img src="images/virt.jpeg?raw=true"/>
 
+(https://github.com/akshitagupta15june/Virtual_Paint-using-OpenCV.git)
+
+
 ---
-[Motion Detection Using OPenCV](/pdf/sample_presentation.pdf)
+[Motion Detection Using OPenCV]
+
 <img src="images/motion.jpeg?raw=true"/>
 
+(https://github.com/akshitagupta15june/motion_detector_opencv.git)
+
+
 ---
-[Face Detection Using OpenCV](http://example.com/)
+[Live Face Detection Using OpenCV]
+
 <img src="images/face.jpeg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+(https://github.com/akshitagupta15june/face_detection_opencv_live.git)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
