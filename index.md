@@ -1,8 +1,4 @@
-## Portfolio
-
----
-
-### Category Name 1 
+My OpenCV Projects
 
 [Virtual Paint Using OPenCV]
 
